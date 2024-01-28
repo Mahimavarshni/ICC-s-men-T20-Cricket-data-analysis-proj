@@ -10,7 +10,6 @@
 - [Data Analysis Expression (DAX)](https://github.com/Mahimavarshni/ICC-s-men-T20-Cricket-data-analysis-proj#data-analysis-expression-dax)
 - [Report](https://github.com/Mahimavarshni/ICC-s-men-T20-Cricket-data-analysis-proj#dashboard)
 - [Tools, Software and Libraries](https://github.com/Mahimavarshni/ICC-s-men-T20-Cricket-data-analysis-proj#tools-software-and-libraries-)
-- [References](https://github.com/Mahimavarshni/ICC-s-men-T20-Cricket-data-analysis-proj#references)
 
 ## Problem Statement :
 
@@ -77,4 +76,22 @@ Measures used in visualization are:
 - boundary runs bowling =`t20_bowling_summary[fours]*4+t20_bowling_summary[sixes]*6`
 
 ## Reports:
-Data visualization for the dataset was done by using Microsoft Power BI Desktop:
+Data visualization for the dataset was done by using Microsoft Power BI Desktop.
+
+## Tools, Software and Libraries :
+
+1.Jupyter Notebook
+
+2.Python
+
+3.Pandas
+
+4.Webscraping
+
+5.Beautifual Soup
+
+6.Power Query Editor
+
+7.Power BI
+
+8.Anaconda Envirement
